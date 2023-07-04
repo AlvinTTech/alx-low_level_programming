@@ -3,9 +3,7 @@
 
 /*
  * File: main.h
- * Auth: Agnes Mwangangi
- * Desc: Header file with prototypes for all functions
- *       used in the 0x04-more_functions_nested_loops directory.
+ * Desc: Header file with prototype for every function
  */
 
 int _isupper(int c);
